@@ -1,37 +1,56 @@
-# 📊 Gantt Chart Generator 🔄
+# Gantt Chart Generator 📊
 
-A web-based tool to generate Gantt charts and calculate TAT (Turnaround Time) and WT (Waiting Time) based on various scheduling algorithms. It supports the First Come First Serve (FCFS) algorithm by default, and you can extend it to include other popular scheduling algorithms like Round Robin (RR), Shortest Job First (SJF), and more.
+A web-based tool to generate Gantt charts and calculate TAT (Turnaround Time) and WT (Waiting Time) based on various scheduling algorithms. It currently supports the First Come First Serve (FCFS) algorithm.
 
 ## Features
 
-✨ Input validation: Ensures accurate scheduling calculations by validating input values.
+✨ **Intuitive Interface**: Easily input process details and select a scheduling algorithm.
 
-🚦 Error handling: Provides informative error messages for better troubleshooting.
+📈 **Gantt Chart Generation**: Generate visual Gantt charts representing the scheduling order.
 
-📊 Dynamic visualization: Displays Gantt chart bars dynamically, making it easier to understand the scheduling process.
+⏱️ **Turnaround Time (TAT) Calculation**: Calculate the turnaround time for each process.
 
-💡 Detailed process information: Shows Arrival Time, Burst Time, Completion Time, Turnaround Time, and Waiting Time for each process.
+⌚ **Waiting Time (WT) Calculation**: Calculate the waiting time for each process.
 
-🌟 Simple and intuitive web interface: Allows users to generate Gantt charts and analyze scheduling algorithms with ease.
+🔄 **Support for FCFS Algorithm**: The tool currently supports the First Come First Serve (FCFS) algorithm.
 
-## Technologies Used
+🚀 **Extensibility**: Extend the tool to include other popular scheduling algorithms like Round Robin (RR), Shortest Job First (SJF), and more.
 
-- HTML
-- CSS
-- JavaScript
+## Contribution and Extension
 
-## Usage
+🎉 Thank you for considering contributing to this project! 🎉
 
-1. Clone the repository or download the source code.
-2. Open the `index.html` file in a web browser.
-3. Enter the number of processes, arrival times, and burst times.
-4. Select the scheduling algorithm (FCFS by default).
-5. Click the "Generate Gantt Chart" button to view the results.
-6. The Gantt chart, along with the process information, will be displayed on the page.
+If you'd like to contribute and extend the tool with additional features or scheduling algorithms, please follow these steps:
 
-Feel free to customize and enhance the tool based on your specific requirements. You can add support for additional scheduling algorithms, implement more robust input validation, and improve the user interface.
+1. Fork the repository.
+
+2. Create a new branch to work on your feature or improvement.
+
+3. Make the necessary changes and commit them.
+
+4. Push your changes to your forked repository.
+
+5. Open a pull request and describe the changes you've made.
+
+6. Wait for the review and merge of your pull request.
+
+Let's work together to make this tool even more powerful and versatile!
+
+## Give a Star ⭐
+
+If you find this project helpful or interesting, please consider giving it a star! It helps to show your support and encourages further development.
+
+🌟 [Give a Star to this Repository](https://github.com/ShubhamChoudharyShubh/process-scheduling-solver)
+
+## GitHub Pages
+
+You can access the web-based tool through the following GitHub Pages link:
+
+🔗 [Process Scheduling Solver GitHub Page](https://shubhamchoudharyshubh.github.io/process-scheduling-solver/)
+
+Feel free to explore the tool, generate Gantt charts, calculate TAT and WT, and contribute to its development.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code.
 
