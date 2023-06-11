@@ -151,3 +151,43 @@ th {
         font-size: 14px;
     }
 }
+
+/* Custom Styles for Buttons */
+
+.button-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.button-container button {
+    margin-right: 10px;
+}
+
+.give-star-button {
+    display: block;
+    width: fit-content;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: left;
+}
+
+.whatsapp-button {
+    display: block;
+    width: fit-content;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: left;
+}
