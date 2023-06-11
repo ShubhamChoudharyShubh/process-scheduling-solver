@@ -86,3 +86,11 @@
             errorElement.innerHTML = errorMessage;
             errorContainer.appendChild(errorElement);
         }
+
+ 
+function shareOnWhatsApp() {
+    var repoLink = "https://github.com/ShubhamChoudharyShubh/process-scheduling-solver";
+    var message = "Check out this awesome GitHub repository: " + repoLink;
+    var whatsappLink = "https://wa.me/?text=" + encodeURIComponent(message);
+    window.open(whatsappLink);
+}
