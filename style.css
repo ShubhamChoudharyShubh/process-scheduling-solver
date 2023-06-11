@@ -1,16 +1,3 @@
-   table {
-    border-collapse: collapse;
-    margin: auto;
-}
-
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-
-.error {
-    color: red;
-}
 body {
             font-family: Arial, sans-serif;
             background-color: #f3f3f3;
@@ -59,3 +46,16 @@ body {
         button:hover {
             background-color: #128C7E;
         }
+   table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.error {
+    color: red;
+}
