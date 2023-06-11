@@ -1,0 +1,15 @@
+    <style>
+        table {
+            border-collapse: collapse;
+            margin: auto;
+        }
+        
+        table, th, td {
+            border: 1px solid black;
+            text-align: center;
+        }
+        
+        .error {
+            color: red;
+        }
+    </style>
