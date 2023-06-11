@@ -11,3 +11,59 @@ table, th, td {
 .error {
     color: red;
 }
+/* start and share */
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+}
+
+/* Heading styles */
+h2 {
+    color: #333;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Paragraph styles */
+p {
+    color: #555;
+    text-align: center;
+}
+
+/* Anchor styles */
+a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+/* Anchor hover styles */
+a:hover {
+    background-color: #45a049;
+}
+
+/* Button styles */
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #25D366;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+}
+
+/* Button hover styles */
+button:hover {
+    background-color: #128C7E;
+}
