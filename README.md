@@ -54,3 +54,4 @@ Feel free to explore the tool, generate Gantt charts, calculate TAT and WT, and 
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code.
 
+![screencapture-shubhamchoudharyshubh-github-io-process-scheduling-solver-2023-06-11-19_59_26](https://github.com/ShubhamChoudharyShubh/process-scheduling-solver/assets/96586771/c3ce5f18-28e0-4d45-a646-6d3f55f721b7)
