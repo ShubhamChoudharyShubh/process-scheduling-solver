@@ -168,7 +168,7 @@ th {
   }
 
   .button-container {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 
   .button-container a {
@@ -184,11 +184,6 @@ th {
 
   .button-container a:hover {
     background-color: #054aa0; /* Darker blue on hover */
-  }
-
-  .visitor-counter {
-    font-size: 18px;
-    font-style: italic;
   }
 
   .whatsapp-button {
