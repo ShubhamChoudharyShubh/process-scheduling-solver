@@ -9,7 +9,10 @@ h1 {
     text-align: center;
     color: #333;
 }
-
+h5 {
+    text-align: center;
+    color: #424242;
+}
 form {
     max-width: 400px;
     margin: 20px auto;
