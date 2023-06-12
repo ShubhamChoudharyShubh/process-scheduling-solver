@@ -72,6 +72,22 @@
             window.open(whatsappLink, "_blank");
         }
     </script>
-    
+           <!--Page visitor counter script-->
+
+          <script>
+            const counterElement = document.getElementById('counter');
+            let counter = localStorage.getItem('pageVisits');
+        
+            if (counter) {
+              counter = parseInt(counter);
+              counterElement.textContent = counter;
+            } else {
+              counter = 0;
+            }
+        
+            counter++;
+            counterElement.textContent = counter;
+            localStorage.setItem('pageVisits', counter.toString());
+          </script>
 </body>
 </html>
