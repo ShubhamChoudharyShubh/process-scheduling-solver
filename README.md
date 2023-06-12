@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamchoudharyshubh&label=Visitors%20&color=blueviolet&style=for-the-badge" alt="shubhamchoudharyshubh" /> </p>
+
 # Gantt Chart Generator 📊
 
 A web-based tool to generate Gantt charts and calculate TAT (Turnaround Time) and WT (Waiting Time) based on various scheduling algorithms. It currently supports the First Come First Serve (FCFS) algorithm.
